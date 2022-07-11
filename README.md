@@ -4,6 +4,8 @@ Hi I am Deeptangshu Dutta. I am a B. Tech Student pursuing Computer Science Engi
 
 I am adroit in coding in Java with maximum accuracy and I am learning C, C++ and Python in my course curriculum and hope to ace those languages soon.
 
+> Links will open in this tab only. In **Desktop** you may use ```Ctrl + Click``` while in **Mobile** ```Tap & Hold``` To Open Pages in New Tab
+
 ## Completed Projects in [Code Kumite Coding Club](https://github.com/code-kumite-community)
 
 - [Assignment-1](https://community.codekumite.com/Deeptangshu-Dutta/)
